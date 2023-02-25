@@ -1,0 +1,6 @@
+framework module Pods_Multiverse_of_LotR {
+  umbrella header "Pods-Multiverse of LotR-umbrella.h"
+
+  export *
+  module * { export * }
+}
